@@ -1,6 +1,8 @@
 # HelioxASX ⚡💪
 
 > Connect your vibe, sync your training, log your progress.
+>
+> 🌐 **Live URL:** [https://helioxasx.netlify.app/](https://helioxasx.netlify.app/)
 
 **HelioxASX** is a premium, beautifully curated full-stack fitness and gym application designed for **Heliox Fitness Kamla Nagar & Agra regions**. Powered by **React 18, Vite, Tailwind CSS, Lucide Icons, and Supabase**, it represents the absolute peak of modern "vibe coding"—blending gorgeous negative space, micro-animations, high-contrast dark visual tones, and a real-time cloud-backed system.
 
@@ -40,7 +42,7 @@ The connection is configured to communicate with the following live parameters:
 - **Project ID:** `ptozmgsrimjoxnpolovy`
 - **Supabase Project URL:** `https://ptozmgsrimjoxnpolovy.supabase.co`
 - **Supabase Publishable Key:** `sb_publishable_LTr69Z6TLonGf-IyKGOgzw_OlAjjLny`
-- **Frontend Live Build:** `https://heliox-fitness-gym-270482238240.asia-southeast1.run.app`
+- **Frontend Live Build:** [https://helioxasx.netlify.app/](https://helioxasx.netlify.app/) (Netlify) / [Alternative Live Build](https://heliox-fitness-gym-270482238240.asia-southeast1.run.app)
 
 ### 1️⃣ Setting up Environment File
 Create a `.env` in the root of your project:
